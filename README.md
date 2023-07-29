@@ -2,8 +2,7 @@
 ## Hi. Tôi là ```Nguyễn Trung Hiếu - OverKill DEV```
 
 ![](https://github.com/dopaemon/dopaemon/raw/output/dist/github-snake.svg)
-
-<!-- ![svg](https://raw.githubusercontent.com/dopaemon/dopaemon/07b036fc965569846759539e9d4f81472576fbec/profile-3d-contrib/profile-night-view.svg) -->
+![svg](https://raw.githubusercontent.com/dopaemon/dopaemon/07b036fc965569846759539e9d4f81472576fbec/profile-3d-contrib/profile-night-view.svg)
 ```C++
 #include <bits/stdc++.h>
 int main()
