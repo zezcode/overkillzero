@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/overkillzero/overkillzero/main/svg/snake.svg)
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">🛠 Languages 🛠</h2>
 <br>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -35,7 +35,8 @@
 <div align=center>
   <a href="#" title="OverKill DEV">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=overkillzero&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a><br>
+  </a>
+  <br><br>
   <a href="#" title="OverKill DEV">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=overkillzero&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
