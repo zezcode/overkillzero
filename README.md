@@ -2,7 +2,7 @@
   <img src="svg/overkilldev.svg" width="1200" alt="overkill" />
 </a>
 
-![](https://github.com/dopaemon/dopaemon/raw/output/dist/github-snake.svg)
+![](https://raw.githubusercontent.com/overkillzero/overkillzero/main/svg/snake.svg)
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
