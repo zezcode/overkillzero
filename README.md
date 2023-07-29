@@ -42,7 +42,7 @@
   </a>
 </div>
 
-<br>
+<br> <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
@@ -66,8 +66,8 @@
 
 <br>
 
-
+<center>
 <a href="#" target="_blank">
   <img src="svg/quotes.svg" width="846" height="150" alt="quotes" />
 </a>
-
+</center>
